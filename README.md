@@ -8,7 +8,6 @@
 - :hamburger: I really enjoy eating and I'm known for it
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zi-ying&label=Profile%20views&color=0e75b6&style=flat" alt="zi-ying" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zi-ying" alt="zi-ying" /></a> </p>
 
