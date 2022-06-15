@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sophie</h1>
 <h3 align="center">A new happy web developer full stack</h3>
 
+
+<h5> Enthousiastic Ruby & JS developer, Le Wagon bootcamp graduate & Lifelong learner. Eager to join a new team and share my knowledge </h5>
+
 - 🌱 I want to learn React as soon as possible, to improve my Javascript's and Ruby's skills
 - :sparkling_heart: I love old rpgs : my favorite ones are FFVI, Tales of phantasia and Seiken Densetsu 3, as of now I play a lot civilization VI
 - :sparkles: I have read three times the lord of the rings and nine times the first four Harry Potter but I really like Voyage au bout de la nuit written by Céline Ferdinand
