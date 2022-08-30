@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sophie</h1>
-<h3 align="center">A new happy web developer full stack</h3>
+<h3 align="center">A new happy fullstack web developer</h3>
 
 
 <h5> Enthousiastic Ruby & JS developer, Le Wagon bootcamp graduate & Lifelong learner. Eager to join a new team and share my knowledge </h5>
