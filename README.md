@@ -9,7 +9,7 @@
 - :sparkles: I have read three times the lord of the rings and nine times the first four Harry Potter but I really like XIXth centuries novels.
 - :sparkler: My new favorite movie is The Handmaiden of Park Chan Wook.
 - :hamburger: I really enjoy eating and I'm known for it.
-- 🚴‍♀️ enjoy that hobby for 5 years, done a tour around Taiwan (958km) and ex-delivery girl !
+- 🚴‍♀️ enjoy that hobby for 5 years, done a tour around Taiwan (957km) and ex-delivery girl !
 
 
 
