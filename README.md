@@ -4,7 +4,7 @@
 
 <h5> Enthousiastic Ruby & JS developer and Le Wagon bootcamp graduate. Eager to join a new team, share my knowledge and keep learning ! </h5>
 
-- 🌱 I currently learning React and I want to keep improving my Javascript's and Ruby's skills.
+- 🌱 I'm currently learning React and I want to keep improving my Javascript's and Ruby's skills.
 - :sparkling_heart: I love old rpgs : my favorite ones are FFVI, Tales of phantasia and Seiken Densetsu 3, as of now I play a lot civilization VI.
 - :sparkles: I have read three times the lord of the rings and nine times the first four Harry Potter but I really like XIXth centuries novels.
 - :sparkler: My new favorite movie is The Handmaiden of Park Chan Wook.
