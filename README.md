@@ -10,6 +10,7 @@
 - :sparkler: My new favorite movie is The Handmaiden of Park Chan Wook.
 - :hamburger: I really enjoy eating and I'm known for it.
 - 🚴‍♀️ I enjoyed that hobby for 5 years now, done a tour around Taiwan (957km) and ex-delivery girl !
+- 🥾 I did the Santiago's path from Bordeaux (1086km)
 
 
 
