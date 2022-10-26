@@ -2,7 +2,7 @@
 <h3 align="center">A new happy fullstack web developer</h3>
 
 
-<h5> Enthousiastic Ruby & JS developer and Le Wagon's bootcamp graduate. Eager to join a new team, share my knowledge and keep learning ! </h5>
+<h5> Enthousiastic Ruby & JS developer and Le Wagon's bootcamp graduate. Eager to share my knowledge and keep learning ! </h5>
 
 - 🌱 I'm currently learning React and I want to keep improving my Javascript's and Ruby's skills.
 - :sparkling_heart: I love old rpgs : my favorite ones are FFVI, Tales of phantasia and Seiken Densetsu 3, as of now I play a lot civilization VI.
