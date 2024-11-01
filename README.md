@@ -1,16 +1,32 @@
-<h1 align="center">Hi 👋, I'm Sophie</h1>
-<h3 align="center">A new happy fullstack web developer</h3>
+<h1 align='center'>👋 Hi there! I’m a Fullstack Developer </h1>
 
+With over 2 years of experience in React, TypeScript, and a variety of libraries, I’m passionate about building dynamic web applications. I graduated from Le Wagon’s bootcamp and have honed my skills in both frontend and backend development.
 
-<h5> Enthousiastic Ruby & JS developer and Le Wagon's bootcamp graduate. Eager to share my knowledge and keep learning ! </h5>
+🛠 Hard Skills
+Languages: HTML, Ruby, Go, TypeScript, JavaScript
 
-- 🌱 I'm currently learning React and I want to keep improving my Javascript's and Ruby's skills.
-- :sparkling_heart: I love old rpgs : my favorite ones are FFVI, Tales of phantasia and Seiken Densetsu 3, as of now I play a lot civilization VI.
-- :sparkles: I have read three times the lord of the rings and nine times the first four Harry Potter but I really like XIXth centuries novels.
-- :sparkler: My new favorite movie is The Handmaiden of Park Chan Wook.
-- :hamburger: I really enjoy eating and I'm known for it.
-- 🚴‍♀️ I enjoyed that hobby for 5 years now, done a tour around Taiwan (957km, ⛰️ 1000m) and ex-delivery girl !
-- 🥾 I did the Santiago's path from Bordeaux (1086km)
+Frameworks & Libraries: React, Ruby on Rails, Redux, SCSS, Jest, Playwright, Recharts, Visx, Storybook, Sass, Headless UI, Mantine, Radix, TanStack, Shadcn, Tailwind CSS
+
+Version Control: Git, GitHub, GitLab
+
+Monitoring & Analytics: Datadog, June
+
+🌱 Currently Learning
+I’m focused on advancing my skills in Typescript and looking at new frameworks!
+
+💖 Fun Facts
+I have a love for classic RPGs, with favorites like FFVI, Tales of Phantasia, Seiken Densetsu 3 and a new one Octopath Traveler II. Currently, I’m deep into Civilization VI.
+
+I’ve read The Lord of the Rings three times and the first four Harry Potter books nine times! I’m also a big fan of 19th-20th century novels.
+
+My new favorite movie is Perfect Days by Win Wenders.
+
+I’m known for my love of food—let’s just say I enjoy eating!
+
+I’ve been cycling for 5 years, completing a tour around Taiwan (957 km, ⛰️ 1000 m) and I used to be a delivery girl.
+I also walked the Santiago’s path from Bordeaux (1086 km)!
+
+Let’s connect and build something amazing together!
 
 
 
