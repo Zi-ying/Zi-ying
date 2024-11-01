@@ -29,9 +29,6 @@ I also walked the Santiago’s path from Bordeaux (1086 km)!
 Let’s connect and build something amazing together!
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zi-ying" alt="zi-ying" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sophie-bel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sophie bel 貝姿穎" height="30" width="40" /></a>
