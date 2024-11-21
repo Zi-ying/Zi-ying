@@ -12,10 +12,14 @@ Version Control: Git, GitHub, GitLab
 
 Monitoring & Analytics: Datadog, June
 
+
 🌱 Currently Learning
+
 I’m focused on advancing my skills in Typescript and looking at new frameworks!
 
+
 💖 Fun Facts
+
 I have a love for classic RPGs, with favorites like FFVI, Tales of Phantasia, Seiken Densetsu 3 and a new one Octopath Traveler II. Currently, I’m deep into Civilization VI.
 
 I’ve read The Lord of the Rings three times and the first four Harry Potter books nine times! I’m also a big fan of 19th century novels but I'm currently focusing on more recent and foreign novels.
