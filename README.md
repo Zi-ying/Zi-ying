@@ -15,7 +15,7 @@ Monitoring & Analytics: Datadog, June.
 
 🌱 Currently Learning
 
-I’m focused on advancing my skills in Typescript, looking at new frameworks, like Astro, and Node js!
+I’m focused on advancing my skills in Typescript, looking at new frameworks, like Astro, and Node js! 
 
 
 💖 Fun Facts
