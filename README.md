@@ -10,7 +10,7 @@ Frameworks & Libraries: React, Ruby on Rails, Jotai, Redux, SCSS, Jest, Playwrig
 
 Version Control: Git, GitHub, GitLab.
 
-Monitoring & Analytics: Datadog, June.
+Monitoring & Analytics: Datadog, June. 
 
 
 🌱 Currently Learning
