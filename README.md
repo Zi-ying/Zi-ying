@@ -31,7 +31,7 @@ I’m known for my love of food—let’s just say I enjoy eating!
 I’ve been cycling for a few years, completing a tour around Taiwan (957 km, ⛰️ 1000 m) and I used to be a delivery girl.
 I also walked the Santiago’s path from Bordeaux (1068 km)!
 
-Let’s connect and build something amazing together!
+Let’s connect and build something amazing together! 
 
 
 <h3 align="left">Connect with me:</h3>
