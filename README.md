@@ -20,11 +20,10 @@ I’m focused on advancing my skills in Typescript, looking at new frameworks, A
 
 💖 Fun Facts
 
-I have a love for classic RPGs, with favorites like FFVI, Tales of Phantasia, Seiken Densetsu 3 and a new one Octopath Traveler II. Currently, I’m deep into Civilization VI. 
+I have a love for classic RPGs, with favorites like FFVI, Tales of Phantasia, Seiken Densetsu 3 and a new one Octopath Traveler II.
 
-I’ve read The Lord of the Rings three times and the first four Harry Potter books nine times! I’m also a big fan of 19th century novels but I'm currently focusing on more recent and foreign novels. 
+I’m also a big fan of 19th century novels but I'm currently focusing on more recent and foreign novels. 
 
-My new favorite movie is Perfect Days by Win Wenders. 
 
 I’m known for my love of food—let’s just say I enjoy eating! 
 
