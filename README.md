@@ -25,7 +25,7 @@ I have a love for classic RPGs, with favorites like FFVI, Tales of Phantasia, Se
 I’m also a big fan of 19th century novels but I'm currently focusing on more recent and foreign novels. 
 
 
-I’m known for my love of food—let’s just say I enjoy eating! 
+I’m known for my love of food—let’s just say I enjoy eating!  
 
 I’ve been cycling for a few years, completing a tour around Taiwan (957 km, ⛰️ 1000 m) and I used to be a delivery girl.
 I also walked the Santiago’s path from Bordeaux (1068 km)!
