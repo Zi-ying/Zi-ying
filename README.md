@@ -2,7 +2,7 @@
 
 With over 2 years of experience in React, TypeScript, and a variety of libraries, I’m passionate about building dynamic web applications. I graduated from Le Wagon’s bootcamp and have honed my skills in both frontend and backend development. 
 
-🛠 Hard Skills
+🛠 Hard Skills 
 
 Languages: Ruby, TypeScript, JavaScript.  
 
