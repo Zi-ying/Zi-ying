@@ -4,7 +4,7 @@ With over 2 years of experience in React, TypeScript, and a variety of libraries
 
 🛠 Hard Skills 
 
-Languages: Ruby, TypeScript, JavaScript.  
+Languages: Ruby, TypeScript, JavaScript. 
 
 Frameworks & Libraries: React, Ruby on Rails, Jotai, Redux, SCSS, Jest, Playwright, Recharts, Visx, Storybook, Sass, Headless UI, Mantine, Radix, TanStack, Shadcn, Tailwindcss, HTML, CSS, Docker. 
 
