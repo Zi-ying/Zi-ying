@@ -13,7 +13,7 @@ Version Control: Git, GitHub, GitLab.
 Monitoring & Analytics: Datadog, June. 
 
 
-🌱 Currently Learning
+🌱 Currently Learning 
 
 I’m focused on advancing my skills in Typescript, looking at new frameworks, Astro, Vue js and Next js!
 
