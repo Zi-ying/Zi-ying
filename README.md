@@ -1,6 +1,6 @@
 <h1 align='center'>👋 Hi there! I’m a Fullstack/Frontend Developer </h1> 
 
-With 3 years of experience in React, TypeScript, and a variety of libraries, I’m passionate about building dynamic web applications. I graduated from Le Wagon’s bootcamp and have honed my skills in both frontend and backend development.
+With 3 years of experience in React, TypeScript, and a variety of libraries, I’m passionate about building dynamic web applications. I graduated from Le Wagon’s bootcamp and have honed my skills in both frontend and backend development. 
 
 🛠 Hard Skills 
 
