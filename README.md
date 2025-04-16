@@ -8,7 +8,7 @@ I graduated from Le Wagon’s bootcamp and have honed my skills in both frontend
 
 Languages: Ruby, TypeScript, JavaScript. 
 
-Frameworks & Libraries: React, Ruby on Rails, Redux, SCSS, Jest, Playwright, Recharts, Visx, Storybook, Sass, Headless UI, Mantine, Radix, TanStack, Shadcn/ui, TailwindCSS, HTML, CSS, Docker.
+Frameworks & Libraries: React, Ruby on Rails, Redux, SCSS, Jest, Playwright, Recharts, Visx, Storybook, Sass, Headless UI, Mantine, Radix, TanStack, Shadcn/ui, TailwindCSS, HTML, CSS, Docker. 
 
 Version Control: Git, GitHub, GitLab. 
 
