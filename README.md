@@ -1,4 +1,4 @@
-<h1 align='center'>👋 Hi there! I’m a Frontend Developer </h1> 
+<h1 align='center'>👋 Hi there! I’m a Frontend Developer </h1>
 
 Frontend developer specializing in React and Typescript, with a focus on data visualization and complex data management. I create interactive charts using D3.js, Visx, and Recharts that transform complex datasets into actionable insights. I love working both autonomously and collaboratively, I’m always looking forward to learning more while applying my skills to contribute meaningfully to projects.
 
