@@ -8,7 +8,7 @@ I graduated from Le Wagon’s bootcamp and have honed my skills in both frontend
 
 Languages: Ruby, TypeScript, JavaScript. 
 
-Frameworks & Libraries: React, Ruby on Rails, Redux, SCSS, Jest, Playwright, Recharts, Visx, Storybook, Sass, Headless UI, Mantine, Radix, TanStack, Shadcn/ui, TailwindCSS, HTML, CSS, Docker. 
+Frameworks & Libraries: React, Ruby on Rails, Redux, SCSS, Jest, Playwright, Recharts, Visx, Storybook, Sass, Headless UI, Mantine, TanStack, Shadcn/ui, TailwindCSS, HTML, CSS, Docker. 
 
 Version Control: Git, GitHub, GitLab. 
 
@@ -17,14 +17,14 @@ Monitoring & Analytics: Datadog, June.
 
 🌱 Currently Learning 
 
-I’m focused on advancing my skills in Typescript, Node, looking at new frameworks, Astro, Express and Next js!
+I’m focused on advancing my skills in Typescript, Node js, looking at new frameworks like Adonis!
 
 
 💖 Fun Facts
 
 I have a love for classic RPGs, with favorites like FFVI, Tales of Phantasia, Seiken Densetsu 3 and Octopath Traveler series. 
 
-I’m also a big fan of 19th century novels but I'm currently focusing on more recent and foreign novels. 
+I’m also a big fan of XIXth century novels but I'm currently focusing on more recent and foreign novels. 
 
 
 I’m known for my love of food—let’s just say I enjoy eating!  
